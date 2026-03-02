@@ -3,6 +3,9 @@
 # 🏦 LoanIQ — Loan Approval Predictor
 
 *A machine learning project that predicts loan approval outcomes using 5 classification algorithms, paired with an interactive web interface.*
+## 🌐 Live Deployment
+
+[Click Here to View the Live App](https://anisha-1811.github.io/Loan_Approval_Prediction/)
 
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
